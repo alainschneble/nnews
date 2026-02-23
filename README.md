@@ -18,4 +18,3 @@ nnews makes it possible!
 
 ## Project Status
 * Current version is still alpha and does not work without any inside knowledge.
-* nnews is under active development right now. Expect a first usable version with the above listed features by 8th of March 2015 latest incl. documentation on how to set up/connect to an Exchange mailbox.
